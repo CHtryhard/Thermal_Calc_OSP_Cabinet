@@ -1,0 +1,8 @@
+[
+{
+  "directory": "G:/github_clone/Thermal_Calc_OSP_Cabinet/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\csv_IO.dir\\main.cpp.obj -c G:\\github_clone\\Thermal_Calc_OSP_Cabinet\\main.cpp",
+  "file": "G:/github_clone/Thermal_Calc_OSP_Cabinet/main.cpp",
+  "output": "CMakeFiles/csv_IO.dir/main.cpp.obj"
+}
+]
